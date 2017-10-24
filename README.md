@@ -1,3 +1,5 @@
+# I am no longer maintaining this. Please see https://github.com/NVIDIA/packer-builder-xenserver
+
 [![Build Status](https://travis-ci.org/xenserver/packer-builder-xenserver.svg?branch=master)](https://travis-ci.org/xenserver/packer-builder-xenserver)
 
 # XenServer packer.io builder
